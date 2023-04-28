@@ -11,4 +11,33 @@
 
 # Título
 
-Desarrollador Javascript / Typescript Fullstack
+Desarrollador Web Fullstack Javascript / Typescript 
+
+# Objetivo Profesional
+
+Parrafo de de 5-7 renglones, con el rol que buscamos, porque hacemos fit en el puesto al que aplicamos, Cuales son nuestras fortalezas (habilidades blandas), como me destaco frente a otros candidatos
+
+Podemos estudiar las ofertas de trabajo igual que antes.
+
+Ejemplo:
+
+Busco una oportunidad como desarrollador web fullstack con javascript o typescript. Cuento con 2 años de experiencia y mi última experiencia fue como freelancer, lo que ha hecho que me desarrolle en otras áreas del desarrollo, como la arquitectura, diseño de bases de datos, diseño del backend, realización y automatización de tests, desarrollo del frontend con React y su ecosistema (Nextjs, React-Native) y desplegando servicios en la nube, principalmente en AWS.
+
+Cuento con un alto sentido del compromiso, responsabilidad, de pertenencia y autonomía. Tengo habilidades sociales para entablar relaciones profesionales con buena comunicación en Inglés y Español. Soy detallista y meticuloso en la resolución de problemas abstractos. Siemre busco el crecimiento personal y personas que busquen superarse cada día.
+
+# Habilidades Blandas y Duras
+
+Columna de la izquierda de información breve.
+
+Soft: Actitud y Valores.
+
+Hard: Experiencia, conocimiento, herramientas
+
+# Como agregar Formación Educación
+
+Si la educación es un requisito, ponerla arriba, sino, dejalo de último
+
+# Como describir tu experiencia profesional
+
+50% del cuerpo de CV.
+
