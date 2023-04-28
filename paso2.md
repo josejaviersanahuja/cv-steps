@@ -23,7 +23,7 @@ Ejemplo:
 
 Busco una oportunidad como desarrollador web fullstack con javascript o typescript. Cuento con 2 años de experiencia y mi última experiencia fue como freelancer, lo que ha hecho que me desarrolle en otras áreas del desarrollo, como la arquitectura, diseño de bases de datos, diseño del backend, realización y automatización de tests, desarrollo del frontend con React y su ecosistema (Nextjs, React-Native) y desplegando servicios en la nube, principalmente en AWS.
 
-Cuento con un alto sentido del compromiso, responsabilidad, de pertenencia y autonomía. Tengo habilidades sociales para entablar relaciones profesionales con buena comunicación en Inglés y Español. Soy detallista y meticuloso en la resolución de problemas abstractos. Siemre busco el crecimiento personal y personas que busquen superarse cada día.
+Cuento con un alto sentido del compromiso, responsabilidad, de pertenencia y autonomía. Tengo habilidades sociales para entablar relaciones profesionales con buena comunicación en Inglés y Español. Soy detallista y meticuloso en la resolución de problemas abstractos. Siemre busco el crecimiento personal y personas que busquen superarse cada día. Todo esto me ha ayudado a conseguir una puntuación perfecta con todos los trabajos realizados en Fiverr.
 
 # Habilidades Blandas y Duras
 
@@ -41,3 +41,8 @@ Si la educación es un requisito, ponerla arriba, sino, dejalo de último
 
 50% del cuerpo de CV.
 
+# Hobbys y Datos de contacto.
+
+Datos de contacto puede ir al final. enlaces de linkedin, fiverr github. Puede ir del lado izquierdo.
+
+No agregar imágenes. Viajes, lecturas, deportes, videojuegos, conocer otras culturas. Voluntariado, Escribir, Blog Escribir, Podcasting.
